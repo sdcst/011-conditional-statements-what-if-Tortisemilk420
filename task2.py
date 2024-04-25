@@ -20,3 +20,17 @@ positive
 Enter a number: -1.2
 negative
 """
+num = -1.2
+
+if 0 < num:
+
+   print(f"positive")
+
+elif 0 > num:
+
+  print("negative")
+
+elif 0 == num:
+
+  print("zero")
+

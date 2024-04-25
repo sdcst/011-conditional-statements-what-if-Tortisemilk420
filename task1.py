@@ -19,3 +19,17 @@ The number is 100
 Enter a number: 102
 The number is larger than 100
 """
+
+num = 102
+
+if 100 < num:
+
+   print(f"The number is larger than 100")
+
+elif 100 > num:
+
+  print("The number is smaller than 100")
+
+elif 100 == num:
+
+  print("The number is 100")

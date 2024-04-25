@@ -12,3 +12,9 @@
 # Outputs:
 # "the number is even"
 # "the number is odd"
+
+num = 63480
+if num & 1:
+  print('odd')
+else:
+  print('even')
